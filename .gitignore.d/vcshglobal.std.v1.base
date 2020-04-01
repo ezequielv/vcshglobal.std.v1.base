@@ -1,0 +1,11 @@
+# by default, ignore everything
+/*
+
+# own '.keep.*' files
+!.keep.vcshglobal.std.v1.base
+# own "dotfiles"!
+!.*[-_.]vcshglobal.std.v1.base
+
+# vim600: set filetype=conf fileformat=unix:
+# vim: set noexpandtab:
+# vi: set autoindent tabstop=4 shiftwidth=4:
